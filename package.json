@@ -1,0 +1,22 @@
+{
+  "name": "modernizr",
+  "version": "2.8.3",
+  "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.",
+  "main": "modernizr.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NetflixUI/Modernizr.git"
+  },
+  "author": "Modernizr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NetflixUI/Modernizr/issues"
+  },
+  "homepage": "https://github.com/NetflixUI/Modernizr"
+}
