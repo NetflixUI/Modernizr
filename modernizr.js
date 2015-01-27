@@ -1403,4 +1403,4 @@ window.Modernizr = (function( window, document, undefined ) {
 
     return Modernizr;
 
-})(this, this.document);
+})(window || this, (window && window.document) || (this && this.document));
